@@ -1,0 +1,35 @@
+{
+    "students":[
+        {
+            "id":1,
+            "name":"Esaam",
+            "age":20,
+            "email":"Esaam@yahoo.com"
+        },
+        {
+            "id":2,
+            "name":"Ali",
+            "age":25,
+            "email":"Ali@yahoo.com"
+        },
+        {
+            "id":3,
+            "name":"ahmed",
+            "age":22,
+            "email":"ahmed@yahoo.com"
+        },
+        {
+            "id":4,
+            "name":"ramy",
+            "age":22,
+            "email":"ramy@yahoo.com"
+        },
+        {
+            "id":5,
+            "name":"fady",
+            "age":24,
+            "email":"fady@yahoo.com"
+        }
+        
+    ]
+}

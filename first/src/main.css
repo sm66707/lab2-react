@@ -1,0 +1,51 @@
+.input1{
+    border-radius: 50px;
+    height: 30px;
+    width: 20%;
+}
+.btn1{
+    border-radius: 50px;
+    border-color: rgb(255, 255, 255);
+    height: 30px;
+    width: 10%;
+    background-color: rgba(252, 246, 213, 0.959);
+}
+.search-comp{
+  border: 1px solid black;
+  padding: 10px auto;
+  margin: 10px auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.header{
+    text-align: center;
+    background-color: rgb(201, 158, 107);
+    width: 90%;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+.search-comp input{
+  margin: auto;
+  text-align: center;
+  border-radius: 20px;
+  outline: none;
+  border: 1px solid gainsboro;
+}
+.studentitem{
+  background-color: blanchedalmond;
+  text-align: center;
+}
+.newone{
+  text-align: center;
+}
+.newone input{
+  border-radius: 25px;
+  height: 40px;
+  width: 20%;
+}
+.addbtn{
+  width:10%;
+  height:30px;
+  border-radius: 20px;
+}
